@@ -19,6 +19,6 @@ for i in range(len(list2)):
           if(list2[i]==list2[j]):
               print("SAME")
 
- 
+ file_read()
  
 
